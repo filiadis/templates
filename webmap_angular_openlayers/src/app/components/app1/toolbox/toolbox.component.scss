@@ -1,0 +1,36 @@
+.toolbox {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 40px;
+  top: 100px;
+  right: 5px;
+  z-index: 5;
+  /*background-color: transparentize($color: #ffffff, $amount: 1);*/
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  z-index: 5;
+  flex-wrap: wrap;
+  overflow: auto;
+}
+
+.btn-icon {
+  width: 22px;
+  filter: invert(1);
+  align-items: center;
+}
+
+.btn-icon-main {
+  position: relative;
+  width: 22px;
+  filter: invert(1);
+  top: 2.5px;
+}
+
+.btn-icon-main .mdc-button__label {
+  z-index: 1;
+  position: relative;
+}

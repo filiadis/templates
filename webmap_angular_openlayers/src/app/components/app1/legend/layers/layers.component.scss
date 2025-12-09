@@ -1,0 +1,97 @@
+span {
+  display: flex;
+  align-items: center;
+}
+
+mat-checkbox {
+  display: flex;
+  margin-right: 20px;
+}
+
+mat-card {
+  margin-bottom: 5%;
+}
+
+mat-card-header {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5;
+}
+
+.layer-title {
+  font-size: 0.9rem;
+}
+
+.card-header {
+  display: flex;
+  flex-direction: column;
+}
+
+.top-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5%;
+}
+
+.header-icon {
+  justify-content: flex-end;
+  width: 20px;
+}
+
+.header-icon:hover {
+  background-color: #e0e0e0;
+}
+
+.header-icon:active {
+  background-color: white;
+}
+
+mat-card-actions {
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.icon {
+  width: 20px;
+  margin-left: 10px;
+}
+
+.icon:hover {
+  background-color: #e0e0e0;
+}
+
+.icon:active {
+  background-color: white;
+}
+
+.slider-value {
+  font-size: 0.8rem;
+  position: absolute;
+  left: 30px;
+}
+
+.legend-info {
+  padding-left: 30px;
+}
+
+.legend-info label {
+  font-weight: bold;
+}
+
+.metadata {
+  padding: 15px;
+}
+
+.info-main-title {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.info-title {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: rgba(63, 81, 181, 1);
+}

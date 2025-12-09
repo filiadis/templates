@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aigialos_fek_paros" id="aigialos_fek_paros">
+	<SimpleField name="GI_FORESHO" type="float"></SimpleField>
+	<SimpleField name="SYS_ID" type="float"></SimpleField>
+	<SimpleField name="YYN_NUM" type="string"></SimpleField>
+	<SimpleField name="FEK_NUM" type="string"></SimpleField>
+	<SimpleField name="FEK_DT" type="string"></SimpleField>
+	<SimpleField name="PLACE_NAME" type="string"></SimpleField>
+	<SimpleField name="DOCUMENT" type="string"></SimpleField>
+	<SimpleField name="BBOX_AREA" type="float"></SimpleField>
+	<SimpleField name="GEOM.AREA" type="float"></SimpleField>
+	<SimpleField name="GEOM.LEN" type="float"></SimpleField>
+</Schema>
+<Folder><name>aigialos_fek_paros</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">40460</SimpleData>
+		<SimpleData name="SYS_ID">6522038.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1489</SimpleData>
+		<SimpleData name="FEK_NUM">671</SimpleData>
+		<SimpleData name="FEK_DT">1981/11/19 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΦΙΛΙΖΗ ΚΟΙΝ. ΝΑΟΥΣΗΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">115699.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2732394680976,37.1152557885237 25.2732912003766,37.1183448108771 25.277089772024,37.1183039509024 25.2770378855157,37.1152149330985 25.2732394680976,37.1152557885237</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">40699</SimpleData>
+		<SimpleData name="SYS_ID">6522006.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1411</SimpleData>
+		<SimpleData name="FEK_NUM">733</SimpleData>
+		<SimpleData name="FEK_DT">1988/10/14 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΕΠΟΝΑΣ ΕΩΣ ΑΓ.ΦΩΚΑ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">7915.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1373237997929,37.0781230692841 25.1373416014718,37.0793147728753 25.1380148768024,37.0793083143316 25.1379970645909,37.078116611018 25.1373237997929,37.0781230692841</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">40703</SimpleData>
+		<SimpleData name="SYS_ID">6522570.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">2462</SimpleData>
+		<SimpleData name="FEK_NUM">367</SimpleData>
+		<SimpleData name="FEK_DT">1988/05/13 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΙΠΕΡΙ ΠΑΛΗΟΜΥΛΟΣ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">73089.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2276259265985,37.1205664726709 25.227674588831,37.1235795999634 25.2301349053762,37.1235540947514 25.2300861456821,37.1205409702288 25.2276259265985,37.1205664726709</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">40853</SimpleData>
+		<SimpleData name="SYS_ID">6523336.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3818</SimpleData>
+		<SimpleData name="FEK_NUM">1188</SimpleData>
+		<SimpleData name="FEK_DT">1996/10/03 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΛΥΚΗ ΚΟΙΝ.ΑΓΚΑΙΡΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">2859.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1323635117141,36.9983706710828 25.1323715158697,36.9989104175743 25.1329080248829,36.998905297846 25.132900016937,36.9983655514543 25.1323635117141,36.9983706710828</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">40854</SimpleData>
+		<SimpleData name="SYS_ID">6523336.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3818</SimpleData>
+		<SimpleData name="FEK_NUM">1188</SimpleData>
+		<SimpleData name="FEK_DT">1996/10/03 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΛΥΚΗ ΚΟΙΝ.ΑΓΚΑΙΡΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">13444.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1328868905171,36.9974807817704 25.132900016937,36.9983655514543 25.13443885322,36.9983508535751 25.1344257089796,36.9974660843605 25.1328868905171,36.9974807817704</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">40855</SimpleData>
+		<SimpleData name="SYS_ID">6523069.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3920</SimpleData>
+		<SimpleData name="FEK_NUM">1101</SimpleData>
+		<SimpleData name="FEK_DT">1997/12/18 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΙΣΩ ΛΙΒΑΔΙ ΚΟΙΝ ΜΑΡΠΗΣΣΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">168961.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2546195012704,37.0327876886394 25.2546703917446,37.0358808301237 25.2602044082145,37.0358221789626 25.2601532934205,37.0327290440228 25.2546195012704,37.0327876886394</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">40877</SimpleData>
+		<SimpleData name="SYS_ID">6523994.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">4936</SimpleData>
+		<SimpleData name="FEK_NUM">1259</SimpleData>
+		<SimpleData name="FEK_DT">2004/12/31 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΑΛΑΙΑ ΑΛΥΚΗ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">104169.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1400398582287,36.9873372707292 25.1400964801937,36.9911309784822 25.1428769305961,36.9911042403251 25.1428201706154,36.9873105362331 25.1400398582287,36.9873372707292</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41007</SimpleData>
+		<SimpleData name="SYS_ID">6522148.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">167</SimpleData>
+		<SimpleData name="FEK_NUM">728</SimpleData>
+		<SimpleData name="FEK_DT">2012/12/18 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΜΑΚΡΥΑ ΜΥΤΗ ΝΗΣΟΣ ΠΑΡΟΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">107648.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1183294314775,36.9922292305838 25.1183729171795,36.995198908457 25.1220437403523,36.9951642648527 25.1220001119905,36.9921945906924 25.1183294314775,36.9922292305838</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41071</SimpleData>
+		<SimpleData name="SYS_ID">6522082.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1555</SimpleData>
+		<SimpleData name="FEK_NUM">686</SimpleData>
+		<SimpleData name="FEK_DT">1981/11/26 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΚΟΙΝ.ΝΑΟΥΣΗΣ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">58128.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2220229386531,37.1333069041762 25.2220845970376,37.1371403979265 25.223965367676,37.1371338804093 25.2235611105745,37.1332910363417 25.2220229386531,37.1333069041762</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41075</SimpleData>
+		<SimpleData name="SYS_ID">6522088.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1568</SimpleData>
+		<SimpleData name="FEK_NUM">263</SimpleData>
+		<SimpleData name="FEK_DT">1981/05/15 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΜΠΕΛΑΣ ΝΗΣΟΥ ΠΑΡΟΥ ΠΡΟ ΙΔΙΟΚΤΗΣΙΑΣ ΔΕΗ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">54359.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2686004238723,37.1078568275241 25.2686383001958,37.1101274176962 25.2710660208307,37.11010141495 25.271028072073,37.1078308269063 25.2686004238723,37.1078568275241</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41228</SimpleData>
+		<SimpleData name="SYS_ID">6521890.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">ΥΠΟΙΚ119</SimpleData>
+		<SimpleData name="FEK_NUM">753</SimpleData>
+		<SimpleData name="FEK_DT">2012/12/31 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΚΡΩΤΗΡΙ - ΑΓΙΟΣ ΦΩΚΑΣ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">70391.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1321577939849,37.0903181829681 25.1322014966115,37.0932557038322 25.1346312059107,37.0932324804743 25.134587409547,37.0902949620699 25.1321577939849,37.0903181829681</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41312</SimpleData>
+		<SimpleData name="SYS_ID">6524029.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5206</SimpleData>
+		<SimpleData name="FEK_NUM">163</SimpleData>
+		<SimpleData name="FEK_DT">2005/02/15 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΑΓΓΕΡΗ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">176242.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2648870782614,37.144526946586 25.2649522503966,37.1484399417254 25.2695219097799,37.1483910798001 25.2694565023633,37.1444780915502 25.2648870782614,37.144526946586</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41313</SimpleData>
+		<SimpleData name="SYS_ID">6524029.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5206</SimpleData>
+		<SimpleData name="FEK_NUM">163</SimpleData>
+		<SimpleData name="FEK_DT">2005/02/15 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΑΓΓΕΡΗ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">41910.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2634593471229,37.1402408076353 25.2634735120165,37.1410924396335 25.2684658824623,37.1410391150028 25.2684516616354,37.1401874846412 25.2634593471229,37.1402408076353</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41395</SimpleData>
+		<SimpleData name="SYS_ID">6523196.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3567</SimpleData>
+		<SimpleData name="FEK_NUM">385</SimpleData>
+		<SimpleData name="FEK_DT">2013/07/31 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΜΩΛΟΣ Δ.Δ ΑΡΧΙΠΟΧΟΥ Ν.ΠΑΡΟΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">8466.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2661299634631,37.0499401821138 25.2661413356895,37.0506247174918 25.2673945914884,37.0506113345758 25.2673832080129,37.0499267995282 25.2661299634631,37.0499401821138</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41515</SimpleData>
+		<SimpleData name="SYS_ID">6522836.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3164</SimpleData>
+		<SimpleData name="FEK_NUM">555</SimpleData>
+		<SimpleData name="FEK_DT">1992/06/09 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΑΓΓΕΡΙ ΚΟΙΝ ΝΑΟΥΣΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">99529.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2809624701137,37.14739040118 25.2810306537313,37.151432382525 25.2835289815939,37.1514053506935 25.2834606650902,37.1473633732855 25.2809624701137,37.14739040118</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41524</SimpleData>
+		<SimpleData name="SYS_ID">6524623.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5854</SimpleData>
+		<SimpleData name="FEK_NUM">205</SimpleData>
+		<SimpleData name="FEK_DT">2009/05/26 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΦΙΛΙΖΙ ΠΑΡΟΥ ΝΗΣΟΣ ΠΑΡΟΣ - ΚΥΚΛΑΔΕΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">83362.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2796495074292,37.123067153305 25.2796938325992,37.125699903505 25.2829053505008,37.1256651902328 25.2828609141667,37.1230324433267 25.2796495074292,37.123067153305</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41789</SimpleData>
+		<SimpleData name="SYS_ID">6523620.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">4950</SimpleData>
+		<SimpleData name="FEK_NUM">181</SimpleData>
+		<SimpleData name="FEK_DT">2006/03/09 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΣΑΝΤΑ ΜΑΡΙΑ - ΖΕΥΛΟΓΙΑΝΝΗ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">108374.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2869107582574,37.1413267566046 25.2869492902906,37.1436010071084 25.2917836377944,37.1435484144386 25.2917449611158,37.141274168245 25.2869107582574,37.1413267566046</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41792</SimpleData>
+		<SimpleData name="SYS_ID">6524387.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5518</SimpleData>
+		<SimpleData name="FEK_NUM">931</SimpleData>
+		<SimpleData name="FEK_DT">2006/10/23 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΦΑΡΑΓΓΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">57759.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1582197139029,36.9827958606542 25.1582522805043,36.9849440282206 25.1609746724167,36.9849174341649 25.1609420293115,36.9827692686604 25.1582197139029,36.9827958606542</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41864</SimpleData>
+		<SimpleData name="SYS_ID">6524820.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">66</SimpleData>
+		<SimpleData name="FEK_NUM">330</SimpleData>
+		<SimpleData name="FEK_DT">2012/05/30 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΓΙΟΣ ΜΥΡΩΝΑΣ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">184400.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1424704741824,36.9847982516821 25.1425142953277,36.9877283819227 25.148886545825,36.9876668790958 25.1488424804026,36.9847367553594 25.1424704741824,36.9847982516821</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41948</SimpleData>
+		<SimpleData name="SYS_ID">6522836.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3164</SimpleData>
+		<SimpleData name="FEK_NUM">555</SimpleData>
+		<SimpleData name="FEK_DT">1992/06/09 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΑΓΓΕΡΙ ΚΟΙΝ ΝΑΟΥΣΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">42365.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2832638046896,37.1461168625997 25.2832909532295,37.1477235347351 25.285966110853,37.1476945376189 25.2859389057571,37.1460878671623 25.2832638046896,37.1461168625997</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41953</SimpleData>
+		<SimpleData name="SYS_ID">6522908.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3349</SimpleData>
+		<SimpleData name="FEK_NUM">1233</SimpleData>
+		<SimpleData name="FEK_DT">1993/10/04 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΓ.ΙΩΑΝΝΗΣ ΔΕΤΗΣ ΝΑΟΥΣΑΣ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">81341.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2233713384309,37.1435222178371 25.2234230173806,37.1467305737573 25.2259952761723,37.1467039931667 25.2265904040053,37.1434504491912 25.2233713384309,37.1435222178371</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41964</SimpleData>
+		<SimpleData name="SYS_ID">6521827.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1297</SimpleData>
+		<SimpleData name="FEK_NUM">175</SimpleData>
+		<SimpleData name="FEK_DT">1980/03/13 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΧΡΥΣΗ ΑΚΤΗ ΠΕΡΙΟΧΗΣ ΔΡΥΟΥ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">218998.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2336759245269,37.0075666386366 25.2337328369803,37.0110877372391 25.2400319963588,37.0110220845894 25.2399747935044,37.0075009943283 25.2336759245269,37.0075666386366</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41987</SimpleData>
+		<SimpleData name="SYS_ID">6524181.000000000931323</SimpleData>
+		<SimpleData name="YYN_NUM">5486</SimpleData>
+		<SimpleData name="FEK_NUM">841</SimpleData>
+		<SimpleData name="FEK_DT">2006/09/19 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΦΑΡΑΓΓΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">136612.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1485704453636,36.9841286872286 25.1486225868757,36.9875966813985 25.1526112493592,36.9875580189644 25.15255892688,36.9840900296338 25.1485704453636,36.9841286872286</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">41997</SimpleData>
+		<SimpleData name="SYS_ID">6524298.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5118</SimpleData>
+		<SimpleData name="FEK_NUM">306</SimpleData>
+		<SimpleData name="FEK_DT">2005/03/23 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΛΑΚΩΤΟ ΝΗΣΟΥ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">76021.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2553928827841,37.0787812170351 25.2554500204194,37.0822460842308 25.2576741656802,37.0822225177556 25.2576169268853,37.0787576535041 25.2553928827841,37.0787812170351</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">42075</SimpleData>
+		<SimpleData name="SYS_ID">6524737.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">6218</SimpleData>
+		<SimpleData name="FEK_NUM">130</SimpleData>
+		<SimpleData name="FEK_DT">2011/06/02 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΟΡΜΟΣ ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΔΕΤΗΣ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">51804.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2227988628423,37.1371330313726 25.2229015313012,37.1435109075315 25.2237255841219,37.1435024021038 25.223965367676,37.1371338804093 25.2227988628423,37.1371330313726</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">42331</SimpleData>
+		<SimpleData name="SYS_ID">6523149.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3480</SimpleData>
+		<SimpleData name="FEK_NUM">1235</SimpleData>
+		<SimpleData name="FEK_DT">1994/11/25 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΤΣΩΝΙ ΚΟΙΝ. ΜΑΡΠΗΣΑΣ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">124412.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2416468134268,37.0082038095884 25.2416937878244,37.0110913692529 25.246057425275,37.0110456322517 25.246010285901,37.0081580773526 25.2416468134268,37.0082038095884</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">42384</SimpleData>
+		<SimpleData name="SYS_ID">6522252.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">2085</SimpleData>
+		<SimpleData name="FEK_NUM">937</SimpleData>
+		<SimpleData name="FEK_DT">1986/10/07 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΟΥΝΤΑ ΠΑΡΟΙΚΙΑΣ ΠΑΡΟΥ Ν.ΚΥΚΛΑΔΩΝ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">130181.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1050152510614,37.0394639936206 25.1050710627845,37.0433146471626 25.1084968090463,37.0432826888496 25.1084408243918,37.0394320397465 25.1050152510614,37.0394639936206</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">42386</SimpleData>
+		<SimpleData name="SYS_ID">6522314.999999999068677</SimpleData>
+		<SimpleData name="YYN_NUM">2193</SimpleData>
+		<SimpleData name="FEK_NUM">743</SimpleData>
+		<SimpleData name="FEK_DT">1986/09/08 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΑΡΑΣΠΟΡΟΣ ΚΟΙΝ.ΠΑΡΟΙΚΙΑΣ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">54438.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1254774991208,37.070705651242 25.1255140908056,37.0731815999377 25.1277428612554,37.0731604289428 25.1277061971482,37.0706844821373 25.1254774991208,37.070705651242</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">42564</SimpleData>
+		<SimpleData name="SYS_ID">6524330.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5964</SimpleData>
+		<SimpleData name="FEK_NUM">418</SimpleData>
+		<SimpleData name="FEK_DT">2009/10/02 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΓΛΥΦΑ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">73881.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1901021188921,36.9834009061666 25.1901307720501,36.9852402602978 25.1941975946681,36.9851994173929 25.1941688436554,36.9833600659732 25.1901021188921,36.9834009061666</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">42596</SimpleData>
+		<SimpleData name="SYS_ID">6522836.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3164</SimpleData>
+		<SimpleData name="FEK_NUM">555</SimpleData>
+		<SimpleData name="FEK_DT">1992/06/09 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΑΓΓΕΡΙ ΚΟΙΝ ΝΑΟΥΣΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">155341.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2765469904127,37.147917324615 25.2766068838837,37.1514801183597 25.2810306537313,37.151432382525 25.2809705528522,37.1478695949083 25.2765469904127,37.147917324615</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">42666</SimpleData>
+		<SimpleData name="SYS_ID">6524511.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5691</SimpleData>
+		<SimpleData name="FEK_NUM">602</SimpleData>
+		<SimpleData name="FEK_DT">2007/11/22 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΤΡΥΠΗΤΗ ΑΓΚΑΙΡΙΑΣ,ΝΗΣΟΣ ΠΑΡΟΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">210066.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1606188287293,36.9791016839368 25.1606745793029,36.9827718712994 25.166469560999,36.9827150701641 25.166413532229,36.9790448903259 25.1606188287293,36.9791016839368</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">42806</SimpleData>
+		<SimpleData name="SYS_ID">6522023.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">145</SimpleData>
+		<SimpleData name="FEK_NUM">105</SimpleData>
+		<SimpleData name="FEK_DT">2013/03/01 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΚΡΩΤΗΡΙ Ή ΑΛΩΝΑΚΙ ΝΗΣΟΣ ΠΑΡΟΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">101186.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1374482708799,37.1020500668908 25.1374868243837,37.1046283492681 25.1414667041833,37.1045901015542 25.1414280158585,37.102011822732 25.1374482708799,37.1020500668908</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">42869</SimpleData>
+		<SimpleData name="SYS_ID">6522405.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1865</SimpleData>
+		<SimpleData name="FEK_NUM">360</SimpleData>
+		<SimpleData name="FEK_DT">1983/08/22 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΚΑΜΠΟΣ ΚΟΙΝ.ΠΑΡΟΙΚΙΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">854166.000000000116415</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.0981692003766,37.0110919272712 25.0983604381249,37.0243790079806 25.1048729837206,37.0243185483496 25.1046806126203,37.0110314966193 25.0981692003766,37.0110919272712</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">42990</SimpleData>
+		<SimpleData name="SYS_ID">6524169.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5466</SimpleData>
+		<SimpleData name="FEK_NUM">864</SimpleData>
+		<SimpleData name="FEK_DT">2006/09/27 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΑΓΓΕΡΗ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">105911.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2607665887855,37.1488979052518 25.2608042256496,37.1511647771403 25.2655446225787,37.1511142507904 25.2655068442987,37.148847383029 25.2607665887855,37.1488979052518</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">42996</SimpleData>
+		<SimpleData name="SYS_ID">6523196.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3567</SimpleData>
+		<SimpleData name="FEK_NUM">385</SimpleData>
+		<SimpleData name="FEK_DT">2013/07/31 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΜΩΛΟΣ Δ.Δ ΑΡΧΙΠΟΧΟΥ Ν.ΠΑΡΟΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">391646.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2643633786014,37.0506436807206 25.2644918227057,37.0583844500495 25.2696191020395,37.058329681704 25.2694901374584,37.0505889276643 25.2643633786014,37.0506436807206</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">43063</SimpleData>
+		<SimpleData name="SYS_ID">6523434.999999999068677</SimpleData>
+		<SimpleData name="YYN_NUM">4265</SimpleData>
+		<SimpleData name="FEK_NUM">356</SimpleData>
+		<SimpleData name="FEK_DT">2000/06/15 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΨΑΡΙΑΝΑ ΕΩΣ ΑΓ.ΝΙΚΟΛΑΟΣ Δ.Δ ΝΑΟΥΣΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">42849.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2345754771895,37.1235272893435 25.2346023115798,37.1251793754648 25.237233038137,37.125151947568 25.2372061466028,37.1234998630798 25.2345754771895,37.1235272893435</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">43319</SimpleData>
+		<SimpleData name="SYS_ID">6523890.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">4796</SimpleData>
+		<SimpleData name="FEK_NUM">626</SimpleData>
+		<SimpleData name="FEK_DT">2003/06/20 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΝΗΣΙΔΑ ΠΡΑΣΟΝΗΣΙ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">6800.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.097826093016,36.9932640038905 25.0978364482268,36.993984394175 25.0987923722979,36.9939755490585 25.0987820080748,36.993255159004 25.097826093016,36.9932640038905</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">43908</SimpleData>
+		<SimpleData name="SYS_ID">6524115.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5319</SimpleData>
+		<SimpleData name="FEK_NUM">895</SimpleData>
+		<SimpleData name="FEK_DT">2005/08/26 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΑΡΑΣΠΟΡΟΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">240066.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1262441243741,37.073061455773 25.1263125482332,37.0776875090351 25.1315733119179,37.0776374323776 25.1315045686315,37.0730113874688 25.1262441243741,37.073061455773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44009</SimpleData>
+		<SimpleData name="SYS_ID">6523871.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">4772</SimpleData>
+		<SimpleData name="FEK_NUM">518</SimpleData>
+		<SimpleData name="FEK_DT">2003/05/29 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΜΑΚΡΥΑ ΜΥΤΗ ΑΛΥΚΗΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">72113.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1157148375698,36.9942882780924 25.1157695368818,36.9980321469086 25.1177201930352,36.9980137938956 25.1176653981429,36.9942699275591 25.1157148375698,36.9942882780924</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44010</SimpleData>
+		<SimpleData name="SYS_ID">6522669.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">2641</SimpleData>
+		<SimpleData name="FEK_NUM">236</SimpleData>
+		<SimpleData name="FEK_DT">1989/04/25 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΜΑΚΡΥΑ ΜΥΤΗ ΚΟΙΝ.ΑΓΚΑΙΡΙΑΣ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">97713.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1145998030671,36.9980560730058 25.1146606316027,37.0022230040726 25.1170355280283,37.0022006765598 25.116974569957,36.9980337488503 25.1145998030671,36.9980560730058</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44049</SimpleData>
+		<SimpleData name="SYS_ID">6523101.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3369</SimpleData>
+		<SimpleData name="FEK_NUM">500</SimpleData>
+		<SimpleData name="FEK_DT">1994/05/23 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΔΡΥΟΣ ΚΟΙΝ.ΜΑΡΠΙΣΣΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">205595.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2281697862788,37.0037988323374 25.2282313151569,37.0076231107648 25.2336759245269,37.0075666386366 25.2336141230665,37.0037423680022 25.2281697862788,37.0037988323374</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44178</SimpleData>
+		<SimpleData name="SYS_ID">6523893.000000000931323</SimpleData>
+		<SimpleData name="YYN_NUM">4799</SimpleData>
+		<SimpleData name="FEK_NUM">566</SimpleData>
+		<SimpleData name="FEK_DT">2003/06/10 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΝΗΣΟΣ ΤΟΥΡΝΑ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">46095.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.0964536559328,36.9946381225146 25.0964808615219,36.9965329778879 25.0989443807004,36.9965101949903 25.0989171140171,36.9946153411749 25.0964536559328,36.9946381225146</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44186</SimpleData>
+		<SimpleData name="SYS_ID">6524330.999999999068677</SimpleData>
+		<SimpleData name="YYN_NUM">5965</SimpleData>
+		<SimpleData name="FEK_NUM">238</SimpleData>
+		<SimpleData name="FEK_DT">2010/05/10 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΝΤΑΜΟΥΛΗ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">158526.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2653700881978,37.0888814985272 25.265453574555,37.093902200288 25.2686547679341,37.0938679940511 25.2685710705209,37.088847298482 25.2653700881978,37.0888814985272</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44189</SimpleData>
+		<SimpleData name="SYS_ID">6523900.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">4817</SimpleData>
+		<SimpleData name="FEK_NUM">843</SimpleData>
+		<SimpleData name="FEK_DT">2003/08/08 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΦΙΛΙΖΙ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">219897.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2770527966681,37.1183039805647 25.2771332732803,37.1230942888206 25.2817890578391,37.1230440379898 25.2817082880451,37.1182537384099 25.2770527966681,37.1183039805647</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44191</SimpleData>
+		<SimpleData name="SYS_ID">6524690.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5946</SimpleData>
+		<SimpleData name="FEK_NUM">289</SimpleData>
+		<SimpleData name="FEK_DT">2009/07/17 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΚΡΩΤΗΡΙ Ή ΑΛΩΝΑΚΙ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">98666.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1414667041833,37.1045901015542 25.1415254344317,37.1085033908836 25.1440823843557,37.1084787452049 25.1440235226249,37.1045654593523 25.1414667041833,37.1045901015542</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44369</SimpleData>
+		<SimpleData name="SYS_ID">6523336.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3818</SimpleData>
+		<SimpleData name="FEK_NUM">1188</SimpleData>
+		<SimpleData name="FEK_DT">1996/10/03 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΛΥΚΗ ΚΟΙΝ.ΑΓΚΑΙΡΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">2181.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1290040423574,36.9978667970626 25.1290125612691,36.9984429751169 25.1293959510613,36.9984393276717 25.1293874292582,36.9978631496932 25.1290040423574,36.9978667970626</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44370</SimpleData>
+		<SimpleData name="SYS_ID">6523336.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3818</SimpleData>
+		<SimpleData name="FEK_NUM">1188</SimpleData>
+		<SimpleData name="FEK_DT">1996/10/03 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΛΥΚΗ ΚΟΙΝ.ΑΓΚΑΙΡΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">41655.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1343987635413,36.9956522033977 25.1344260209428,36.997487083774 25.1367249771963,36.9974650890287 25.1366976645857,36.9956302101088 25.1343987635413,36.9956522033977</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44449</SimpleData>
+		<SimpleData name="SYS_ID">6524701.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">6170</SimpleData>
+		<SimpleData name="FEK_NUM">702</SimpleData>
+		<SimpleData name="FEK_DT">2010/12/31 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΟΥΝΤΑ ΜΑΡΠΗΣΣΑΣ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">106953.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2511878885455,37.0258955459133 25.2512323914655,37.0286085770278 25.2552258962644,37.0285663973823 25.2551812513971,37.0258533703962 25.2511878885455,37.0258955459133</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44493</SimpleData>
+		<SimpleData name="SYS_ID">6524670.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5914</SimpleData>
+		<SimpleData name="FEK_NUM">273</SimpleData>
+		<SimpleData name="FEK_DT">2009/07/08 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΑΓΓΕΡΗ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">58623.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2685174871152,37.129861453738 25.2685884659992,37.1341131230083 25.2699871318829,37.1340981453875 25.2699160747933,37.1298464784122 25.2685174871152,37.129861453738</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44497</SimpleData>
+		<SimpleData name="SYS_ID">6523336.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3818</SimpleData>
+		<SimpleData name="FEK_NUM">1188</SimpleData>
+		<SimpleData name="FEK_DT">1996/10/03 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΛΥΚΗ ΚΟΙΝ.ΑΓΚΑΙΡΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">7012.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1361053534118,36.9941010299977 25.1361278442338,36.9956128622812 25.1365975590597,36.9956083653576 25.1365750589442,36.9940965333194 25.1361053534118,36.9941010299977</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44570</SimpleData>
+		<SimpleData name="SYS_ID">6522528.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">2381</SimpleData>
+		<SimpleData name="FEK_NUM">816</SimpleData>
+		<SimpleData name="FEK_DT">1987/08/27 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΝΤΑΜΟΥΛΗ ΑΜΠΙΛΑ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">92313.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2643636919393,37.0928863611055 25.2644181836893,37.0961656581756 25.2672722978483,37.0961351890747 25.2672176831766,37.0928558956069 25.2643636919393,37.0928863611055</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44595</SimpleData>
+		<SimpleData name="SYS_ID">6524106.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5310</SimpleData>
+		<SimpleData name="FEK_NUM">940</SimpleData>
+		<SimpleData name="FEK_DT">2005/09/02 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΩΛΑΝΤΩΝΗ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">233488.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2048754546412,36.9895531526445 25.2049420730811,36.9937759946605 25.2105408529738,36.9937190266481 25.2104739251742,36.989496193314 25.2048754546412,36.9895531526445</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44622</SimpleData>
+		<SimpleData name="SYS_ID">6523810.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">4690</SimpleData>
+		<SimpleData name="FEK_NUM">818</SimpleData>
+		<SimpleData name="FEK_DT">2003/08/01 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΔΡΥΟΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">114498.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2238181138636,37.001281272432 25.2238587456416,37.0038160043856 25.2284332907321,37.0037687438125 25.2283925071733,37.0012340161818 25.2238181138636,37.001281272432</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44664</SimpleData>
+		<SimpleData name="SYS_ID">6524291.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5107</SimpleData>
+		<SimpleData name="FEK_NUM">1013</SimpleData>
+		<SimpleData name="FEK_DT">2004/11/05 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΦΑΡΑΓΓΑΣ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">71874.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1541322515274,36.9849839690346 25.1541553921857,36.9865156884877 25.158906596463,36.9864693983937 25.1588833605955,36.9849376814996 25.1541322515274,36.9849839690346</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44724</SimpleData>
+		<SimpleData name="SYS_ID">6522836.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3164</SimpleData>
+		<SimpleData name="FEK_NUM">555</SimpleData>
+		<SimpleData name="FEK_DT">1992/06/09 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΑΓΓΕΡΙ ΚΟΙΝ ΝΑΟΥΣΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">162215.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.269488587955,37.1463948725505 25.269536490434,37.1492604328075 25.2752798682897,37.1491987695122 25.2752317492428,37.1463332156224 25.269488587955,37.1463948725505</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44760</SimpleData>
+		<SimpleData name="SYS_ID">6522157.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1684</SimpleData>
+		<SimpleData name="FEK_NUM">503</SimpleData>
+		<SimpleData name="FEK_DT">1982/10/12 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΓΚΑΘΙΑ ΚΟΙΝΟΤΗΤΑΣ ΝΑΟΥΣΗΣ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">49932.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2412141486159,37.1258483845696 25.2412386505825,37.1273486809079 25.2446144104959,37.1273132849076 25.244589841934,37.1258129904833 25.2412141486159,37.1258483845696</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44771</SimpleData>
+		<SimpleData name="SYS_ID">6524735.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">6216</SimpleData>
+		<SimpleData name="FEK_NUM">48</SimpleData>
+		<SimpleData name="FEK_DT">2011/04/07 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΔΡΥΟΣ ΜΑΡΠΗΣΣΑΣ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">113222.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2208011960051,36.9974314410357 25.2208632366484,37.0013117043582 25.2238181138636,37.001281272432 25.2237559231534,36.9974010133708 25.2208011960051,36.9974314410357</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44886</SimpleData>
+		<SimpleData name="SYS_ID">6524309.000000000931323</SimpleData>
+		<SimpleData name="YYN_NUM">5136</SimpleData>
+		<SimpleData name="FEK_NUM">660</SimpleData>
+		<SimpleData name="FEK_DT">2013/12/24 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΣΑΝΤΑ ΜΑΡΙΑ ΝΑΟΥΣΑΣ ΝΗΣΟΣ ΠΑΡΟΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">94538.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2835031196602,37.1365912801022 25.2835340561823,37.1384224107759 25.2887713788776,37.1383655790777 25.2887403162073,37.1365344521543 25.2835031196602,37.1365912801022</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44982</SimpleData>
+		<SimpleData name="SYS_ID">6522032.000000000931323</SimpleData>
+		<SimpleData name="YYN_NUM">1470</SimpleData>
+		<SimpleData name="FEK_NUM">697</SimpleData>
+		<SimpleData name="FEK_DT">1981/11/27 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΜΠΕΛΑΣ ΝΗΣΟΥ ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">57473.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2659804169769,37.10242527927 25.2660438809265,37.1062382672875 25.2675723014655,37.1062219366088 25.2675087609496,37.1024089508359 25.2659804169769,37.10242527927</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">44993</SimpleData>
+		<SimpleData name="SYS_ID">6522191.999999999068677</SimpleData>
+		<SimpleData name="YYN_NUM">1770</SimpleData>
+		<SimpleData name="FEK_NUM">201</SimpleData>
+		<SimpleData name="FEK_DT">1983/06/02 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΜΠΕΛΑΣ ΚΟΙΝΟΤΗΤΟΣ ΝΑΟΥΣΗΣ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">31259.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2639347970345,37.0961722431327 25.2640058932818,37.1004516283472 25.2647465287793,37.1004437305389 25.2646753909007,37.0961643465427 25.2639347970345,37.0961722431327</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">45031</SimpleData>
+		<SimpleData name="SYS_ID">6522164.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1696</SimpleData>
+		<SimpleData name="FEK_NUM">30</SimpleData>
+		<SimpleData name="FEK_DT">2013/01/30 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΛΥΚΗ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">3098.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1358492847592,36.9928452499568 25.1358679746379,36.9941019316983 25.1361176340377,36.9940995423402 25.1360989400533,36.9928428607071 25.1358492847592,36.9928452499568</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">45061</SimpleData>
+		<SimpleData name="SYS_ID">6522169.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1707</SimpleData>
+		<SimpleData name="FEK_NUM">473</SimpleData>
+		<SimpleData name="FEK_DT">1982/09/24 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΜΑΚΡΙΑ ΜΥΤΗ ΚΟΙΝ. ΑΛΥΚΗΣ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">80943.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1220383377298,36.994265109975 25.1220583919906,36.9956300584347 25.1280636367839,36.9955731377795 25.1280434752482,36.9942081921238 25.1220383377298,36.994265109975</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">45064</SimpleData>
+		<SimpleData name="SYS_ID">6522127.999999999068677</SimpleData>
+		<SimpleData name="YYN_NUM">1628</SimpleData>
+		<SimpleData name="FEK_NUM">55</SimpleData>
+		<SimpleData name="FEK_DT">1992/01/27 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΓΛΥΦΑ ΑΣΠΡΟΧΩΡΙΟΥ ΚΟΙΝ.ΛΕΥΚΩΝ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">121376.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1941788869839,36.9840026088378 25.1942169898406,36.9864401325463 25.1992587362219,36.9863893036146 25.1992204725964,36.9839517843779 25.1941788869839,36.9840026088378</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">45090</SimpleData>
+		<SimpleData name="SYS_ID">6522698.999999999068677</SimpleData>
+		<SimpleData name="YYN_NUM">270</SimpleData>
+		<SimpleData name="FEK_NUM">4</SimpleData>
+		<SimpleData name="FEK_DT">1973/01/10 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΚΡΙΟΣ ΝΗΣΟΥ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">49635.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1442251799848,37.0933833868634 25.1442629596405,37.095895746337 25.1462662167583,37.0958763983331 25.1462283709972,37.093364040612 25.1442251799848,37.0933833868634</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">45112</SimpleData>
+		<SimpleData name="SYS_ID">6522423.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1909</SimpleData>
+		<SimpleData name="FEK_NUM">120</SimpleData>
+		<SimpleData name="FEK_DT">1984/02/13 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΝΥΚΤΙΑ - ΛΑΓΓΕΡΙ ΚΟΙΝ. ΝΑΟΥΣΗΣ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">125189.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2683502897325,37.1341156718752 25.2684520589075,37.1402112762213 25.2705355243804,37.1401889604769 25.2704335881564,37.1340933610327 25.2683502897325,37.1341156718752</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">45152</SimpleData>
+		<SimpleData name="SYS_ID">6522326.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">2206</SimpleData>
+		<SimpleData name="FEK_NUM">323</SimpleData>
+		<SimpleData name="FEK_DT">1986/04/14 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΞΙΦΑΡΑ ΚΟΙΝ. ΝΑΟΥΣΗΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">107105.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2623346172412,37.1235635467307 25.2623786669277,37.1262157848456 25.266474620496,37.1261720947057 25.2664304279775,37.1235198607672 25.2623346172412,37.1235635467307</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">45153</SimpleData>
+		<SimpleData name="SYS_ID">6522524.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">2376</SimpleData>
+		<SimpleData name="FEK_NUM">639</SimpleData>
+		<SimpleData name="FEK_DT">1987/07/09 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΑΓΓΕΡΙ ΝΑΟΥΣΑΣ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">79133.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2663774060351,37.1261731332992 25.2664392374926,37.1298836760338 25.2686024649088,37.1298605443124 25.2685405279049,37.1261500046711 25.2663774060351,37.1261731332992</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">45238</SimpleData>
+		<SimpleData name="SYS_ID">6522175.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">173</SimpleData>
+		<SimpleData name="FEK_NUM">154</SimpleData>
+		<SimpleData name="FEK_DT">2013/03/27 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΒΟΥΤΑΚΟΣ ΝΗΣΟΣ ΠΑΡΟΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">87480.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1106686148454,37.0029478651158 25.1107081202913,37.0056632975077 25.1139709683462,37.0056327173834 25.1139313469064,37.002917287988 25.1106686148454,37.0029478651158</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">45416</SimpleData>
+		<SimpleData name="SYS_ID">6524637.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5872</SimpleData>
+		<SimpleData name="FEK_NUM">55</SimpleData>
+		<SimpleData name="FEK_DT">2009/02/17 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΚΑΜΙΝΑΚΙ ΠΑΡΟΥ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">76492.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2613184241225,37.0386437726682 25.2613751845682,37.0420746041185 25.2636341179286,37.0420505652883 25.2635772558994,37.0386197368129 25.2613184241225,37.0386437726682</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">46028</SimpleData>
+		<SimpleData name="SYS_ID">6523539.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">4386</SimpleData>
+		<SimpleData name="FEK_NUM">603</SimpleData>
+		<SimpleData name="FEK_DT">2000/09/19 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΜΠΕΛΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">33682.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2643503911407,37.1004479553505 25.264383538996,37.1024423188543 25.2660959857036,37.1024240452521 25.2660627929829,37.1004296830621 25.2643503911407,37.1004479553505</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">46029</SimpleData>
+		<SimpleData name="SYS_ID">6523539.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">4386</SimpleData>
+		<SimpleData name="FEK_NUM">603</SimpleData>
+		<SimpleData name="FEK_DT">2000/09/19 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΜΠΕΛΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">19776.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2673544016442,37.1062242660023 25.2673818232184,37.1078698602487 25.2686004238723,37.1078568275241 25.2685729759492,37.1062112340509 25.2673544016442,37.1062242660023</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">46339</SimpleData>
+		<SimpleData name="SYS_ID">6522735.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">277</SimpleData>
+		<SimpleData name="FEK_NUM">53</SimpleData>
+		<SimpleData name="FEK_DT">1973/02/24 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΑΓΚΕΡΙ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">15968.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2530424292153,37.1256880729064 25.2530567135411,37.1265544856536 25.2549260706407,37.1265347104068 25.2549117650187,37.1256682982771 25.2530424292153,37.1256880729064</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">46434</SimpleData>
+		<SimpleData name="SYS_ID">6524820.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">66</SimpleData>
+		<SimpleData name="FEK_NUM">330</SimpleData>
+		<SimpleData name="FEK_DT">2012/05/30 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΓΙΟΣ ΜΥΡΩΝΑΣ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">4250.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1424826212565,36.9856105165251 25.1425080908369,36.9873135403264 25.1427607620006,36.9873111081662 25.1427352867904,36.9856080845144 25.1424826212565,36.9856105165251</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">46788</SimpleData>
+		<SimpleData name="SYS_ID">6522105.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1594</SimpleData>
+		<SimpleData name="FEK_NUM">733</SimpleData>
+		<SimpleData name="FEK_DT">1981/12/14 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΙΠΕΡΙ ΚΟΙΝ ΝΑΟΥΣΗΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">50907.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2301193047541,37.1225900970937 25.2301381237382,37.1237529588788 25.234578392806,37.1237067987446 25.2345595059355,37.1225439388942 25.2301193047541,37.1225900970937</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">47142</SimpleData>
+		<SimpleData name="SYS_ID">6522470.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1997</SimpleData>
+		<SimpleData name="FEK_NUM">81</SimpleData>
+		<SimpleData name="FEK_DT">1985/03/08 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΟΓΟΡΑ ΜΑΡΠΗΣΣΗΣ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">76260.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2541239611392,37.0283305076316 25.2541952978016,37.0326686599875 25.2559761588688,37.032649821792 25.2559047209786,37.0283116723842 25.2541239611392,37.0283305076316</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">47186</SimpleData>
+		<SimpleData name="SYS_ID">6524466.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5625</SimpleData>
+		<SimpleData name="FEK_NUM">270</SimpleData>
+		<SimpleData name="FEK_DT">2008/06/10 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΓΛΥΦΑΔΕΣ Ν.ΠΑΡΟΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">182761.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2554041872317,37.0735044224411 25.2554911753999,37.0787801765155 25.2590026833217,37.0787429504555 25.258915452011,37.0734672034628 25.2554041872317,37.0735044224411</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">47188</SimpleData>
+		<SimpleData name="SYS_ID">6521947.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1839</SimpleData>
+		<SimpleData name="FEK_NUM">399</SimpleData>
+		<SimpleData name="FEK_DT">1983/09/08 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΝΥΧΙΑ - ΛΑΓΓΕΡΙ ΚΟΙΝ.ΝΑΟΥΣΗΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">74740.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2806855385631,37.1339542451607 25.2807304950195,37.1366212716878 25.2835732462095,37.1365905206995 25.283528190033,37.1339234971281 25.2806855385631,37.1339542451607</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">47240</SimpleData>
+		<SimpleData name="SYS_ID">6521951.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1843</SimpleData>
+		<SimpleData name="FEK_NUM">399</SimpleData>
+		<SimpleData name="FEK_DT">1983/09/08 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΣΠΑΘΙΑ ΠΕΡΙΦΕΡΕΙΑΣ ΑΜΠΕΛΑ ΚΟΙΝ. ΝΑΟΥΣΗΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">154154.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2701330941386,37.1101114131913 25.2702195669151,37.1152881834413 25.2732394680976,37.1152557885237 25.2731527898704,37.1100790243184 25.2701330941386,37.1101114131913</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">47278</SimpleData>
+		<SimpleData name="SYS_ID">6522259.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">2096</SimpleData>
+		<SimpleData name="FEK_NUM">542</SimpleData>
+		<SimpleData name="FEK_DT">1985/10/08 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΚΡΙΟΣ ΠΑΡΟΙΚΙΑΣ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">57640.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1390807828627,37.0959112743375 25.1390979244868,37.0970562809637 25.1442023940353,37.0970071356861 25.1441851756379,37.0958621310887 25.1390807828627,37.0959112743375</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">47280</SimpleData>
+		<SimpleData name="SYS_ID">6524152.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5446</SimpleData>
+		<SimpleData name="FEK_NUM">481</SimpleData>
+		<SimpleData name="FEK_DT">2006/05/31 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΚΟΡΑΚΙΑ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">70975.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1105073302823,37.0658119210828 25.1105362019807,37.0677922218014 25.1141690744921,37.0677581524826 25.1141401083938,37.0657778541972 25.1105073302823,37.0658119210828</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">47322</SimpleData>
+		<SimpleData name="SYS_ID">6524731.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">6210</SimpleData>
+		<SimpleData name="FEK_NUM">50</SimpleData>
+		<SimpleData name="FEK_DT">2011/04/07 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΔΡΥΟΣ ΠΥΡΓΑΚΙ ΜΑΡΠΗΣΣΑΣ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">95789.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2184054932273,36.993485916059 25.2184688269719,36.9974554077241 25.2209124323434,36.9974302968609 25.2208489716615,36.993460808793 25.2184054932273,36.993485916059</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">47327</SimpleData>
+		<SimpleData name="SYS_ID">6522911.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">3350</SimpleData>
+		<SimpleData name="FEK_NUM">1234</SimpleData>
+		<SimpleData name="FEK_DT">1993/10/04 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΥΡΓΑΚΙ ΔΡΥΟΥ ΚΟΙΝ ΜΑΡΠΙΣΣΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">94597.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2163750446816,36.9906141915236 25.2164211051779,36.9935062690529 25.2197331344877,36.9934722805013 25.2196869486551,36.9905802065196 25.2163750446816,36.9906141915236</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">47375</SimpleData>
+		<SimpleData name="SYS_ID">6524406.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">5540</SimpleData>
+		<SimpleData name="FEK_NUM">1051</SimpleData>
+		<SimpleData name="FEK_DT">2006/12/14 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΒΟΥΤΑΚΟΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">106636.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1059605467881,37.0057076325646 25.105993505703,37.0079825274767 25.1107412206187,37.0079381887801 25.1107081202913,37.0056632975077 25.1059605467881,37.0057076325646</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">47429</SimpleData>
+		<SimpleData name="SYS_ID">6521930.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1803</SimpleData>
+		<SimpleData name="FEK_NUM">598</SimpleData>
+		<SimpleData name="FEK_DT">1982/12/30 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΛΑΚΩΤΟ ΚΩΣΤΟΥ ΝΗΣΟΥ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">87847.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2576741656802,37.0822225177556 25.2577218577353,37.0851090303465 25.2608070717757,37.0850762689633 25.2607592628066,37.0821897597821 25.2576741656802,37.0822225177556</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">47733</SimpleData>
+		<SimpleData name="SYS_ID">6523956.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">489</SimpleData>
+		<SimpleData name="FEK_NUM">196</SimpleData>
+		<SimpleData name="FEK_DT">1973/06/21 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΓΙΟΙ ΑΝΑΡΓΥΡΟΙ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">55058.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1066860086133,37.0477272083045 25.1067455035624,37.0518245244473 25.1081072919601,37.0518118120703 25.1080477238423,37.0477144978062 25.1066860086133,37.0477272083045</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">48175</SimpleData>
+		<SimpleData name="SYS_ID">6522012.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1427</SimpleData>
+		<SimpleData name="FEK_NUM">31</SimpleData>
+		<SimpleData name="FEK_DT">1981/01/27 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΟΥΝΤΑ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">51796.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1003593328995,37.0383759255807 25.1003756576051,37.0395071142026 25.1050152510614,37.0394639936206 25.1049988575589,37.0383328067583 25.1003593328995,37.0383759255807</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">48288</SimpleData>
+		<SimpleData name="SYS_ID">6522390.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">2262</SimpleData>
+		<SimpleData name="FEK_NUM">998</SimpleData>
+		<SimpleData name="FEK_DT">1986/10/21 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΚΟΡΑΚΙΑ ΠΑΡΟΙΚΙΑΣ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">182927.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1182593165021,37.0691981586156 25.1182971572636,37.0717752917757 25.1254923008201,37.071707233614 25.1254542167153,37.069130106779 25.1182593165021,37.0691981586156</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">48938</SimpleData>
+		<SimpleData name="SYS_ID">6524703.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">6172</SimpleData>
+		<SimpleData name="FEK_NUM">756</SimpleData>
+		<SimpleData name="FEK_DT">2010/12/31 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΤΣΟΥΚΑΛΙΑ ΝΗΣΟΣ ΠΑΡΟΣ - Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">472987.000000000058208</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2609676959068,37.0664124240148 25.2610350731008,37.0704819269444 25.2728152765134,37.0703560917366 25.2727472703146,37.0662866072735 25.2609676959068,37.0664124240148</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">49118</SimpleData>
+		<SimpleData name="SYS_ID">1867833.000000000000000</SimpleData>
+		<SimpleData name="FEK_NUM">420</SimpleData>
+		<SimpleData name="FEK_DT">2016/12/15 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΚΕΦΑΛΟΣ ΜΩΛΟΥ</SimpleData>
+		<SimpleData name="BBOX_AREA">81734.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2696076744118,37.0579408632498 25.2696325015684,37.0594307407804 25.2751919821492,37.0593711040079 25.2751670463508,37.0578812296818 25.2696076744118,37.0579408632498</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">49128</SimpleData>
+		<SimpleData name="SYS_ID">1868493.000000000000000</SimpleData>
+		<SimpleData name="FEK_NUM">427</SimpleData>
+		<SimpleData name="FEK_DT">2016/12/22 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΙΜΕΝΑΣ ΠΑΡΟΙΚΙΑΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">601494.000000000116415</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1459403283817,37.0822478332677 25.1460350467761,37.0885391680931 25.1557283707668,37.0884450948247 25.1556328516638,37.0821537813375 25.1459403283817,37.0822478332677</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">49139</SimpleData>
+		<SimpleData name="SYS_ID">1869109.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">204</SimpleData>
+		<SimpleData name="FEK_NUM">433</SimpleData>
+		<SimpleData name="FEK_DT">2016/12/30 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΓΙΟΙ ΑΝΑΡΓΥΡΟΙ</SimpleData>
+		<SimpleData name="BBOX_AREA">99552.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.244866843929,37.1246098160263 25.2449108882954,37.127298852347 25.2486660081215,37.1272593562701 25.2486218309847,37.1245703237773 25.244866843929,37.1246098160263</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">49148</SimpleData>
+		<SimpleData name="SYS_ID">6523798.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">4673</SimpleData>
+		<SimpleData name="FEK_NUM">1154</SimpleData>
+		<SimpleData name="FEK_DT">2002/12/30 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΓΙΟΙ ΑΝΑΡΓΥΡΟΙ Δ.ΝΑΟΥΣΑΣ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">235146.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2467751927525,37.1250754300839 25.2468342559645,37.128675747056 25.2534590878415,37.1286058788894 25.2533997110073,37.1250055709831 25.2467751927525,37.1250754300839</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">49149</SimpleData>
+		<SimpleData name="SYS_ID">1869299.999999999767169</SimpleData>
+		<SimpleData name="YYN_NUM">5600-1411</SimpleData>
+		<SimpleData name="FEK_NUM">434</SimpleData>
+		<SimpleData name="FEK_DT">2016/12/30 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΚΡΩΤΗΡΙ ΠΑΡΟΙΚΙΑΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">117013.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.151963158828,37.0921918643113 25.1520039347755,37.0948853635046 25.1564088429759,37.0948424878711 25.1563679111983,37.0921489928413 25.151963158828,37.0921918643113</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">49150</SimpleData>
+		<SimpleData name="SYS_ID">1869299.999999999767169</SimpleData>
+		<SimpleData name="FEK_NUM">434</SimpleData>
+		<SimpleData name="FEK_DT">2016/12/30 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΚΡΩΤΗΡΙ ΠΑΡΟΙΚΙΑΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">123678.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.147597281514,37.091850311002 25.1476406560474,37.0947263883641 25.152000887865,37.0946841089636 25.1519573486274,37.0918080359855 25.147597281514,37.091850311002</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">56120</SimpleData>
+		<SimpleData name="SYS_ID">1955835.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">ΥΠΟΙΚ520</SimpleData>
+		<SimpleData name="FEK_NUM">158</SimpleData>
+		<SimpleData name="FEK_DT">2017/06/21 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΓΛΥΦΑΔΕΣ-ΤΣΟΥΚΑΛΙΑ</SimpleData>
+		<SimpleData name="BBOX_AREA">73151.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2588663920564,37.0705049650727 25.2589153451469,37.0734662509499 25.2614191593547,37.0734396473222 25.261370108966,37.0704783642859 25.2588663920564,37.0705049650727</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">56129</SimpleData>
+		<SimpleData name="SYS_ID">1957478.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">4265</SimpleData>
+		<SimpleData name="FEK_NUM">87</SimpleData>
+		<SimpleData name="FEK_DT">2015/04/29 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΝΑΟΥΣΑ ΠΑΡΟΥ</SimpleData>
+		<SimpleData name="BBOX_AREA">934.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2343670796515,37.123384350901 25.2343726881431,37.1237297145933 25.2346469385106,37.1237268585631 25.2346413287737,37.1233814949064 25.2343670796515,37.123384350901</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">62062</SimpleData>
+		<SimpleData name="SYS_ID">6634682.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">ΥΠΟΙΚ339</SimpleData>
+		<SimpleData name="FEK_NUM">429</SimpleData>
+		<SimpleData name="FEK_DT">2014/09/19 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΛΑΛΑΝΤΩΝΗΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">56435.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.210525334701,36.9927399743539 25.2105407438202,36.9937121402856 25.2164189186463,36.9936520451812 25.2164034347479,36.992679881358 25.210525334701,36.9927399743539</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">62772</SimpleData>
+		<SimpleData name="SYS_ID">6521964.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1863</SimpleData>
+		<SimpleData name="FEK_NUM">530</SimpleData>
+		<SimpleData name="FEK_DT">1983/10/20 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΤΣΑΡΔΑΚΙΑ</SimpleData>
+		<SimpleData name="BBOX_AREA">475915.000000000058208</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2458619557773,37.009557757456 25.2459994921691,37.0179820626175 25.2517215353819,37.0179218431057 25.2515833677783,37.009497556247 25.2458619557773,37.009557757456</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">62782</SimpleData>
+		<SimpleData name="SYS_ID">1870727.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">2174-1896</SimpleData>
+		<SimpleData name="FEK_NUM">441</SimpleData>
+		<SimpleData name="FEK_DT">2016/12/30 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΜΕΣΑΔΑ</SimpleData>
+		<SimpleData name="BBOX_AREA">106497.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2501009692746,37.017938926161 25.2502315158002,37.0259056266008 25.251585635861,37.0258913511709 25.2514549480309,37.017924654834 25.2501009692746,37.017938926161</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">64255</SimpleData>
+		<SimpleData name="SYS_ID">6522197.000000000931323</SimpleData>
+		<SimpleData name="YYN_NUM">1777</SimpleData>
+		<SimpleData name="FEK_NUM">159</SimpleData>
+		<SimpleData name="FEK_DT">1983/05/19 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΚΟΛΥΜΠΗΘΡΕΣ Ν.ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">133169.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2128672210387,37.1212215988297 25.2129071779991,37.1237257895992 25.214165661015,37.1247725944507 25.218300999662,37.1236704791006 25.2182608651192,37.1211662933233 25.2128672210387,37.1212215988297</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">64256</SimpleData>
+		<SimpleData name="SYS_ID">6522129.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1629</SimpleData>
+		<SimpleData name="FEK_NUM">333</SimpleData>
+		<SimpleData name="FEK_DT">1986/04/17 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΦΥΚΙΑ ΚΟΙΝ.ΝΑΟΥΣΗΣ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">157355.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2182244756445,37.1188955116523 25.2182608651192,37.1211662933233 25.2252891689637,37.1210938579978 25.2252525696811,37.1188230822555 25.2182244756445,37.1188955116523</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">64421</SimpleData>
+		<SimpleData name="SYS_ID">6725612.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1863</SimpleData>
+		<SimpleData name="FEK_NUM">838</SimpleData>
+		<SimpleData name="FEK_DT">2021/11/29 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΤΣΑΡΔΑΚΙΑ</SimpleData>
+		<SimpleData name="BBOX_AREA">31220.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2490669641494,37.0149567916705 25.2490892332555,37.0163172763824 25.2514134978753,37.016292788673 25.2513911873579,37.0149323051632 25.2490669641494,37.0149567916705</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">64423</SimpleData>
+		<SimpleData name="SYS_ID">6521965.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1863</SimpleData>
+		<SimpleData name="FEK_NUM">1016</SimpleData>
+		<SimpleData name="FEK_DT">2001/12/04 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΤΣΑΡΔΑΚΙΑ - ΝΕΑ ΧΡΥΣΗ ΑΚΤΗ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">44651.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2489289048535,37.0145911137264 25.248957900372,37.0163627360481 25.2515106481855,37.0163358414689 25.2514815934408,37.0145642208664 25.2489289048535,37.0145911137264</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">64644</SimpleData>
+		<SimpleData name="SYS_ID">6738409.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">ΥΠΟΙΚ826-2363</SimpleData>
+		<SimpleData name="FEK_NUM">923</SimpleData>
+		<SimpleData name="FEK_DT">2021/12/20 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΛΥΚΗ</SimpleData>
+		<SimpleData name="BBOX_AREA">28271.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2769251994672,37.1288060957871 25.2769817930017,37.1321739505867 25.2778332821702,37.1321647742342 25.2777766509242,37.1287969205484 25.2769251994672,37.1288060957871</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">64652</SimpleData>
+		<SimpleData name="SYS_ID">6522517.000000000931323</SimpleData>
+		<SimpleData name="YYN_NUM">2363</SimpleData>
+		<SimpleData name="FEK_NUM">264</SimpleData>
+		<SimpleData name="FEK_DT">1988/03/29 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΛΥΚΗ</SimpleData>
+		<SimpleData name="BBOX_AREA">188628.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2746778493767,37.1308046638695 25.2747317621407,37.13401842425 25.2806855385631,37.1339542451607 25.2806313741608,37.1307404922135 25.2746778493767,37.1308046638695</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">64992</SimpleData>
+		<SimpleData name="SYS_ID">6524803.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">635</SimpleData>
+		<SimpleData name="FEK_NUM">118</SimpleData>
+		<SimpleData name="FEK_DT">1976/04/19 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΚΡΩΤΗΡΙ Κ΄ ΒΙΓΛΑ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">560097.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.2672870626793,37.0460350765789 25.2673770560018,37.0514472878337 25.2778634160583,37.0513347906865 25.277772678617,37.0459226013917 25.2672870626793,37.0460350765789</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">65752</SimpleData>
+		<SimpleData name="SYS_ID">6523274.999999999068677</SimpleData>
+		<SimpleData name="YYN_NUM">370</SimpleData>
+		<SimpleData name="FEK_NUM">685</SimpleData>
+		<SimpleData name="FEK_DT">1981/11/26 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΓΙΑ ΕΙΡΗΝΗ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">67419.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1084130787855,37.0552201235754 25.108464587907,37.058761023324 25.1103943215566,37.0587429753227 25.1103427228074,37.055202077879 25.1084130787855,37.0552201235754</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">65762</SimpleData>
+		<SimpleData name="SYS_ID">6523496.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">4435</SimpleData>
+		<SimpleData name="FEK_NUM">202</SimpleData>
+		<SimpleData name="FEK_DT">2001/03/16 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΚΟΡΑΚΙΑ Ν.ΠΑΡΟΣ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">165904.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.107204303826,37.0606281497408 25.107280088931,37.0658423034785 25.1105051706655,37.0658121531267 25.110429164938,37.0605980050583 25.107204303826,37.0606281497408</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">66204</SimpleData>
+		<SimpleData name="SYS_ID">6522176.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1734</SimpleData>
+		<SimpleData name="FEK_NUM">50</SimpleData>
+		<SimpleData name="FEK_DT">1983/03/02 02:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΟΥΝΤΑ ΝΗΣΟΥ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">69856.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.0980769199471,37.0312209190145 25.0981340920394,37.0351915393667 25.0999166543894,37.0351750280089 25.0998593895372,37.0312044100218 25.0980769199471,37.0312209190145</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">66254</SimpleData>
+		<SimpleData name="SYS_ID">6522163.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1696</SimpleData>
+		<SimpleData name="FEK_NUM">156</SimpleData>
+		<SimpleData name="FEK_DT">1983/05/17 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΑΛΥΚΗ ΝΗΣΟΣ ΠΑΡΟΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">89868.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1359571254643,36.9911991505123 25.1359895349496,36.9933781937084 25.1401658141334,36.9933381516694 25.1401332855628,36.9911591116223 25.1359571254643,36.9911991505123</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">66548</SimpleData>
+		<SimpleData name="SYS_ID">6522005.000000000931323</SimpleData>
+		<SimpleData name="YYN_NUM">1411</SimpleData>
+		<SimpleData name="FEK_NUM">494</SimpleData>
+		<SimpleData name="FEK_DT">2013/09/20 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΑΡΑΣΠΟΡΟΣ ΝΗΣΟΣ ΠΑΡΟΣ</SimpleData>
+		<SimpleData name="BBOX_AREA">15558.000000000000000</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1356263452589,37.0762309175379 25.1356460321263,37.0775508790682 25.1368408833427,37.0775394318486 25.136821175773,37.0762194708632 25.1356263452589,37.0762309175379</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aigialos_fek_paros">
+		<SimpleData name="GI_FORESHO">66585</SimpleData>
+		<SimpleData name="SYS_ID">6522004.000000000000000</SimpleData>
+		<SimpleData name="YYN_NUM">1411</SimpleData>
+		<SimpleData name="FEK_NUM">462</SimpleData>
+		<SimpleData name="FEK_DT">1981/08/28 03:00:00.000</SimpleData>
+		<SimpleData name="PLACE_NAME">ΠΕΠΟΝΑΣ ΕΩΣ ΑΓ.ΦΩΚΑΣ ΠΑΡΟΙΚΙΑΣ ΠΑΡΟΥ Ν.ΠΑΡΟΣ Ν.ΚΥΚΛΑΔΩΝ</SimpleData>
+		<SimpleData name="BBOX_AREA">400163.000000000058208</SimpleData>
+		<SimpleData name="GEOM.AREA">0.000000000000000</SimpleData>
+		<SimpleData name="GEOM.LEN">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>25.1314769286851,37.0751890122595 25.1315409233622,37.0794952998606 25.1409613679547,37.0794050454103 25.1408968407818,37.0750987718235 25.1314769286851,37.0751890122595</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,69 @@
+.legend {
+  position: absolute;
+  top: 10%;
+  bottom: 7%;
+  left: 5px;
+  width: 350px;
+  z-index: 20;
+  background-color: white;
+  overflow: auto;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+mat-expansion-panel {
+  margin-bottom: 2%;
+}
+
+mat-panel-title {
+  font-size: 0.9rem;
+}
+
+.legend::-webkit-scrollbar {
+  width: 8px; /* Adjust width as desired */
+  height: 8px; /* Adjust height as desired */
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+.legend::-webkit-scrollbar-thumb {
+  background-color: #3f51b5; /* Adjust thumb color as desired */
+  border-radius: 4px; /* Rounded corners for thumb */
+}
+
+.open-close1 {
+  position: absolute;
+  top: 7%;
+  left: 20%;
+  z-index: 3;
+}
+
+.open-close {
+  position: absolute;
+  top: 6%;
+  left: 20%;
+  z-index: 3;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+  border: solid lightgrey;
+  border-left: white;
+}
+
+.open-close:hover {
+  background-color: #e0e0e0;
+}
+
+span {
+  font-size: 1.1rem;
+}
+
+.empty {
+  padding-bottom: 20%;
+  height: 90%;
+}

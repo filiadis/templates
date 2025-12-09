@@ -1,0 +1,282 @@
+<div class="legend" [@slideInOut]="toggle">
+  <div class="contd">
+    <mat-expansion-panel [expanded]="true">
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          @if (lang === "el") {
+          <span>Διοικητική οργάνωση</span>
+          } @else if (lang === "en") {
+          <span>Administrative</span>
+          }
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <app-layers
+        greekLabelName="Αποκεντρωμένες διοικήσεις"
+        englishLabelName="Main Prefecture"
+        wmsName="apokentr"
+        zIndex="100"
+      />
+      <app-layers
+        greekLabelName="Περιφέρειες"
+        englishLabelName="Prefecture"
+        wmsName="perifereies"
+        zIndex="99"
+        opened="y"
+      />
+      <app-layers
+        greekLabelName="Περιφερειακές Ενότητες"
+        englishLabelName="Prefecture unit"
+        wmsName="nomoi"
+        zIndex="98"
+      />
+      <app-layers
+        greekLabelName="Δήμοι (Καλλικράτης)"
+        englishLabelName="Municipality"
+        wmsName="dimoi_kal"
+        zIndex="97"
+      />
+      <app-layers
+        greekLabelName="Δημοτικές Ενότητες"
+        englishLabelName="Municipal unit"
+        wmsName="dimen"
+        zIndex="96"
+      />
+
+      <app-layers
+        greekLabelName="Δημοτικές & Τοπικές Κοινότητες"
+        englishLabelName="Municipal community"
+        wmsName="top_koin"
+        zIndex="95"
+      />
+    </mat-expansion-panel>
+
+    <mat-expansion-panel [expanded]="false">
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          @if (lang === "el") {
+          <span>Υποδομές</span>
+          } @else if (lang === "en") {
+          <span>Infrastructure</span>
+          }
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <app-layers
+        greekLabelName="Σιδηροδρομική γραμμή"
+        englishLabelName="Railway"
+        wmsName="railway"
+        zIndex="94"
+      />
+    </mat-expansion-panel>
+
+    <mat-expansion-panel [expanded]="false">
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          @if (lang === "el") {
+          <span>Αρχαιολογία</span>
+          } @else if (lang === "en") {
+          <span>Archaeology</span>
+          }
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <app-layers
+        greekLabelName="Οριοθετημένα μνημεία"
+        englishLabelName="Monuments"
+        wmsName="mnimeia_poly"
+        zIndex="93"
+      />
+      <app-layers
+        greekLabelName="ΤΙΦΚ (ΥΠΠΟ)"
+        englishLabelName="Landscape of exceptional natural beauty"
+        wmsName="tifk_yppo"
+        zIndex="92"
+      />
+      <app-layers
+        greekLabelName="Ιστορικοί τόποι"
+        englishLabelName="Historical places"
+        wmsName="istorikoi_topoi"
+        zIndex="91"
+      />
+      <app-layers
+        greekLabelName="Αρχαιολογικοί χώροι"
+        englishLabelName="Archaeological sites"
+        wmsName="archaiologikoi_xoroi"
+        zIndex="90"
+      />
+      <app-layers
+        greekLabelName="Ζώνες προστασίας αρχαιολογικών χώρων"
+        englishLabelName="Archaeological site protection zones"
+        wmsName="zones_prostasias_arx_xoron"
+        zIndex="89"
+      />
+    </mat-expansion-panel>
+
+    <mat-expansion-panel [expanded]="false">
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          @if (lang === "el") {
+          <span>Περιβάλλον</span>
+          } @else if (lang === "en") {
+          <span>Environment</span>
+          }
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <app-layers
+        greekLabelName="Natura 2000"
+        englishLabelName="Natura 2000"
+        wmsName="natura2k"
+        zIndex="88"
+      />
+      <app-layers
+        greekLabelName="Καταφύγιο Άγριας Ζωής (ΚΑΖ)"
+        englishLabelName="Wildlife Sanctuary"
+        wmsName="kaz"
+        zIndex="87"
+      />
+      <app-layers
+        greekLabelName="Τοπίο Ιδιαίτερου Φυσικού Κάλλους (ΤΙΦΚ)"
+        englishLabelName="Landscape of Natural Beauty"
+        wmsName="tifk"
+        zIndex="86"
+      />
+      <app-layers
+        greekLabelName="Μικροί νησιωτικοί υγρότοποι (ΠΔ 2012)"
+        englishLabelName="Small island wetlands"
+        wmsName="ygrotopoi"
+        zIndex="85"
+      />
+      <app-layers
+        greekLabelName="Υγρότοποι"
+        englishLabelName="Wetlands"
+        wmsName="nisiotikoi_ygr"
+        zIndex="84"
+      />
+      <app-layers
+        greekLabelName="Ελεγχόμενες Κυνηγετικές Περιοχές"
+        englishLabelName="Controlled Hunting Areas"
+        wmsName="elegx_kin_per"
+        zIndex="83"
+      />
+      <app-layers
+        greekLabelName="Αισθητικά Δάση"
+        englishLabelName="Aesthetic Forests"
+        wmsName="aist_dasi"
+        zIndex="82"
+      />
+      <app-layers
+        greekLabelName="Ζώνες ΠΔ Προστασίας"
+        englishLabelName="Protection Zones"
+        wmsName="zones_pd_prostasias"
+        zIndex="81"
+      />
+      <app-layers
+        greekLabelName="Εθνικοί Δρυμοί"
+        englishLabelName="National Parks"
+        wmsName="ethn_dymoi"
+        zIndex="80"
+      />
+      <app-layers
+        greekLabelName="Εθνικά Πάρκα"
+        englishLabelName="National Parks"
+        wmsName="ethn_parka"
+        zIndex="79"
+      />
+      <app-layers
+        greekLabelName="Ζώνη Προστασίας Ορεινού Όγκου Αιγάλεω"
+        englishLabelName="Egaleo Mountain Range Protection Zone"
+        wmsName="zones_prostasias_aigaleo"
+        zIndex="78"
+      />
+      <app-layers
+        greekLabelName="Ζώνη Προστασίας Ορεινού Όγκου Λαυρίου"
+        englishLabelName="Lavrio Mountain Range Protection Zone"
+        wmsName="zoni_prostasias_lauriou"
+        zIndex="77"
+      />
+      <app-layers
+        greekLabelName="Ζώνη Προστασίας Πάρνηθας"
+        englishLabelName="Parnitha Protection Zone"
+        wmsName="zoni_parnithas"
+        zIndex="76"
+      />
+      <app-layers
+        greekLabelName="Συνθήκη RAMSAR"
+        englishLabelName="RAMSAR Convention"
+        wmsName="ramsar"
+        zIndex="76"
+      />
+    </mat-expansion-panel>
+
+    <mat-expansion-panel [expanded]="false">
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          @if (lang === "el") {
+          <span>Πολεοδομία</span>
+          } @else if (lang === "en") {
+          <span>Urban Planning</span>
+          }
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <app-layers
+        greekLabelName="Ζώνες Οικιστικού Ελέγχου (ΖΟΕ)"
+        englishLabelName="Residential Control Zones"
+        wmsName="zoe_tee"
+        zIndex="75"
+      />
+      <app-layers
+        greekLabelName="Ζώνες Α & Β Αττικής"
+        englishLabelName="Zones A & B of Attica"
+        wmsName="zones_a_b_attikis"
+        zIndex="74"
+      />
+      <app-layers
+        greekLabelName="Ζ.Ε.Α. Αττικής Οδού"
+        englishLabelName="ZEA Attikis Odos"
+        wmsName="zea_attiki_odos"
+        zIndex="73"
+      />
+      <app-layers
+        greekLabelName="Χρήσεις Γης Ακτές Αττικής"
+        englishLabelName="Land Uses Coasts of Attica"
+        wmsName="xriseis_aktes_attikis"
+        zIndex="72"
+      />
+      <app-layers
+        greekLabelName="Ζ.Ε.Α. Ελαιώνα"
+        englishLabelName="ZEA Elaiona"
+        wmsName="zea_elaiona"
+        zIndex="71"
+      />
+      <app-layers
+        greekLabelName="ΖΟΕ Ασπροπύργου"
+        englishLabelName="Aspropyrgos ΖΟΕ"
+        wmsName="zoe_aspropirgou"
+        zIndex="70"
+      />
+      <app-layers
+        greekLabelName="ΖΟΕ Λαυρεωτικής"
+        englishLabelName="Lavreotiki ΖΟΕ"
+        wmsName="zoe_laureotikis"
+        zIndex="69"
+      />
+      <app-layers
+        greekLabelName="ΖΟΕ Μεσογείων"
+        englishLabelName="Mesogeion ΖΟΕ"
+        wmsName="zoe_mesogeion"
+        zIndex="68"
+      />
+      <app-layers
+        greekLabelName="Άτυπες Βιομηχανικές Συγκεντρώσεις"
+        englishLabelName="Informal Industrial Gatherings"
+        wmsName="atypes_viom_sygk"
+        zIndex="67"
+      />
+
+      <app-layers
+        greekLabelName="Παραγωγικές Δραστηριότητες"
+        englishLabelName="Productive Activities"
+        wmsName="paragog_drast"
+        zIndex="66"
+      />
+    </mat-expansion-panel>
+  </div>
+</div>

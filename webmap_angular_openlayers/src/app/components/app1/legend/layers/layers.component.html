@@ -1,0 +1,118 @@
+<mat-card>
+  <mat-card-header>
+    <div class="top-row">
+      <div class="card-header">
+        <mat-checkbox [checked]="btnChecked" color="primary" (click)="toggle()">
+          @if (lang === 'el'){
+          <span class="layer-title">{{ greekLabelName }}</span>
+          } @else if (lang === 'en'){
+          <span class="layer-title">{{ englishLabelName }}</span>
+          }
+        </mat-checkbox>
+      </div>
+
+      <img
+        src="../../../../../assets/icons/properties.svg"
+        class="header-icon"
+        [matTooltip]="propsTooltipText()"
+        [matTooltipPosition]="'right'"
+        (click)="toggleProps()"
+      />
+    </div>
+
+    <div class="bottom-row">
+      @if (isLoading){
+      <mat-progress-bar mode="indeterminate" color="accent"></mat-progress-bar>
+      } @else {
+      <mat-progress-bar mode="determinate" value="0"></mat-progress-bar>
+      }
+    </div>
+  </mat-card-header>
+
+  @if (showProps){<mat-card-actions>
+    <span class="slider-value">
+      <img
+        src="../../../../../assets/icons/opacity.svg"
+        class="icon"
+        [matTooltip]="opacityTooltipText()"
+      />
+    </span>
+    <mat-slider
+      class="example-margin"
+      [max]="max"
+      [min]="min"
+      [step]="step"
+      [discrete]="thumbLabel"
+      [showTickMarks]="showTicks"
+      matTooltip="{{ opacityProp * 100 }}%"
+    >
+      <input
+        matSliderThumb
+        [(ngModel)]="opacityProp"
+        (change)="onSliderChange()"
+        #slider
+      />
+    </mat-slider>
+    <img
+      src="../../../../../assets/icons/legend.svg"
+      class="icon"
+      [matTooltip]="legendTooltipText()"
+      (click)="getLegendInfo()"
+    />
+  </mat-card-actions>
+
+  <!--<img
+      src="../../../../../assets/icons/search-icon.svg"
+      class="icon"
+      [matTooltip]="zoomTooltipText()"
+      (click)="zoomToLayer()"
+    />
+    <img
+      src="../../../../../assets/icons/download.png"
+      class="icon"
+      [matTooltip]="downloadTooltipText()"
+      (click)="downloadFileShp()"
+    />
+
+    <img
+      src="../../../../../assets/icons/information.png"
+      class="icon"
+      [matTooltip]="metaTooltipText()"
+      (click)="getMetadata()"
+    /> -->
+  <!--
+    <img
+      src="../../../../../assets/icons/zoom-to-layer.svg"
+      class="icon"
+      [matTooltip]="dataTableTooltipText()"
+      (click)="getDataTable()"-->
+
+  @if (legendInfo){
+  <div class="legend-info">
+    @if (lang === 'el'){
+    <label>Υπόμνημα</label><br />
+    } @else if (lang === 'en'){
+    <label>Legend</label><br />
+    }
+    <img [src]="getLegendUrl(wmsName)" />
+  </div>
+  } @if (metadata){
+  <div class="metadata">
+    @if (!metadataLoading){
+    <label class="info-main-title">Μεταδεδομένα</label><br /><br />
+    <label class="info-title">Τίτλος</label><br />
+    <label class="info-details">{{ metadataJsonResponce.title }}</label
+    ><br /><br />
+    <label class="info-title">Περιγραφή</label><br />
+    <label class="info-details">{{ metadataJsonResponce.descr }}</label
+    ><br />
+    <label class="info-title">Πηγή</label><br />
+    <label class="info-details">{{ metadataJsonResponce.source }}</label
+    ><br /><br />
+    <label class="info-title">Ημερομηνία ανάκτησης</label><br />
+    <label class="info-details">{{ metadataJsonResponce.date_rtr }}</label>
+    } @else{ loading }
+  </div>
+
+  }}
+</mat-card>

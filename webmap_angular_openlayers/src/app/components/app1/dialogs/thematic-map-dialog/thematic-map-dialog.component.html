@@ -1,0 +1,7 @@
+<div class="contd" [ngClass]="{ hidden: !toggle }">
+  <div class="main-row">
+    <label class="title">Overview map</label>
+    <mat-icon matTooltip="Close" (click)="closeDialog()">close</mat-icon>
+  </div>
+  <div #mapElement id="thematic_map"></div>
+</div>

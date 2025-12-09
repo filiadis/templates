@@ -1,0 +1,122 @@
+@defer { @if (lang === 'el'){
+
+<div class="dialog" [@slideInOut]="toggle">
+  <mat-icon matTooltip="κλείσιμο" (click)="closeDialog()">close</mat-icon>
+  <h2 class="title">Μετάβαση</h2>
+
+  <div class="form">
+    <mat-form-field class="coord-input">
+      <mat-label>Σύστημα συντ/νων</mat-label>
+      <mat-select [(ngModel)]="selectedSystem">
+        <mat-option value="2100">ΕΓΣΑ 87</mat-option>
+        <mat-option value="4326">WGS 84</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    @if (selectedSystem === "2100"){
+
+    <mat-form-field class="coord-input">
+      <mat-label>(x)</mat-label>
+      <input matInput type="number" [(ngModel)]="xValue" required />
+    </mat-form-field>
+
+    <mat-form-field class="coord-input">
+      <mat-label>(y)</mat-label>
+      <input matInput type="number" [(ngModel)]="yValue" required />
+    </mat-form-field>
+
+    } @else {
+
+    <mat-form-field class="coord-input">
+      <mat-label>(φ)</mat-label>
+      <input matInput type="number" [(ngModel)]="xValue" required />
+    </mat-form-field>
+
+    <mat-form-field class="coord-input">
+      <mat-label>(λ)</mat-label>
+      <input matInput type="number" [(ngModel)]="yValue" required />
+    </mat-form-field>
+
+    }
+    <div class="btns">
+      <button
+        mat-flat-button
+        color="primary"
+        [disabled]="!xValue || !yValue"
+        (click)="onSubmit()"
+      >
+        Μετάβαση
+      </button>
+      <button
+        mat-flat-button
+        color="warn"
+        [disabled]="!xValue || !yValue"
+        (click)="clearLocation()"
+      >
+        Καθαρισμός
+      </button>
+    </div>
+  </div>
+</div>
+}@else if (lang === 'en'){
+<div class="dialog" [@slideInOut]="toggle">
+  <mat-icon matTooltip="Close" matTooltip="Close" (click)="closeDialog()"
+    >close</mat-icon
+  >
+  <h2 class="title">Go to</h2>
+
+  <div class="form">
+    <mat-form-field class="coord-input">
+      <mat-label>Coordinate system</mat-label>
+      <mat-select [(ngModel)]="selectedSystem">
+        <mat-option value="2100">EGSA 87</mat-option>
+        <mat-option value="4326">WGS 84</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    @if (selectedSystem === "2100"){
+
+    <mat-form-field class="coord-input">
+      <mat-label>(x)</mat-label>
+      <input matInput type="number" [(ngModel)]="xValue" required />
+    </mat-form-field>
+
+    <mat-form-field class="coord-input">
+      <mat-label>(y)</mat-label>
+      <input matInput type="number" [(ngModel)]="yValue" required />
+    </mat-form-field>
+
+    } @else {
+
+    <mat-form-field class="coord-input">
+      <mat-label>(lon)</mat-label>
+      <input matInput type="number" [(ngModel)]="xValue" required />
+    </mat-form-field>
+
+    <mat-form-field class="coord-input">
+      <mat-label>(lat)</mat-label>
+      <input matInput type="number" [(ngModel)]="yValue" required />
+    </mat-form-field>
+
+    }
+    <div class="btns">
+      <button
+        mat-flat-button
+        color="primary"
+        [disabled]="!xValue || !yValue"
+        (click)="onSubmit()"
+      >
+        Go to
+      </button>
+      <button
+        mat-flat-button
+        color="warn"
+        [disabled]="!xValue || !yValue"
+        (click)="clearLocation()"
+      >
+        Clear
+      </button>
+    </div>
+  </div>
+</div>
+} }

@@ -1,0 +1,51 @@
+.dialog {
+  height: 800px;
+  width: 350px;
+  overflow: auto;
+}
+
+.dialog::-webkit-scrollbar {
+  width: 8px; /* Adjust width as desired */
+  height: 8px; /* Adjust height as desired */
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+.dialog::-webkit-scrollbar-thumb {
+  background-color: #3f51b5; /* Adjust thumb color as desired */
+  border-radius: 4px; /* Rounded corners for thumb */
+}
+
+.stext {
+  display: flex;
+  width: 100%;
+}
+
+.btns {
+  display: flex;
+  justify-content: center; // Center the buttons horizontally
+  gap: 16px; // Space between buttons
+  margin-top: 1rem; // Optional: adds some spacing from elements above
+}
+
+.warning {
+  color: red;
+}
+
+.item-title {
+  font-size: 1.1rem;
+  margin-bottom: 50px;
+}
+
+.item-list {
+  font-size: 0.9rem;
+  color: rgb(32, 64, 110);
+}
+
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 120px; /* Ensures vertical space */
+}

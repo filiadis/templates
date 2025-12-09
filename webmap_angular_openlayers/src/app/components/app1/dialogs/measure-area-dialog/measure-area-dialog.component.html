@@ -1,0 +1,53 @@
+@defer () { @if (lang === 'el'){
+<div class="dialog" [@slideInOut]="toggle">
+  <mat-icon matTooltip="κλείσιμο" (click)="closeDialog()">close</mat-icon>
+  <h2 class="title">Μέτρηση εμβαδού</h2>
+  <mat-form-field class="unit-input">
+    <mat-label>Μονάδα μέτρησης</mat-label>
+    <mat-select [(ngModel)]="selectedUnit">
+      <mat-option value="sqm"> Τετρ. μέτρα</mat-option>
+      <mat-option value="sqkm">Τετρ. χλμ</mat-option>
+    </mat-select>
+  </mat-form-field>
+  @if (selectedUnit === "sqm"){
+
+  <h3><span>Εμβαδό: </span> {{ area | number : "1.2-2" }}</h3>
+
+  } @else if (selectedUnit === "sqkm"){
+
+  <h3><span>Εμβαδό: </span> {{ area / 1000000 | number : "1.2-2" }}</h3>
+
+  }
+  <br />
+
+  <div class="btns">
+    <button mat-flat-button color="accent" (click)="newMeasure()">Clear</button>
+  </div>
+</div>
+}@else if (lang === 'en'){
+<div class="dialog" [@slideInOut]="toggle">
+  <mat-icon matTooltip="Close" (click)="closeDialog()">close</mat-icon>
+  <h2 class="title">Measure area</h2>
+  <mat-form-field class="unit-input">
+    <mat-label>Measurement unit</mat-label>
+    <mat-select [(ngModel)]="selectedUnit">
+      <mat-option value="sqm"> Sq. meters</mat-option>
+      <mat-option value="sqkm">Sq. kilometers</mat-option>
+    </mat-select>
+  </mat-form-field>
+  @if (selectedUnit === "sqm"){
+
+  <h3><span>Area: </span> {{ area | number : "1.2-2" }}</h3>
+
+  } @else if (selectedUnit === "sqkm"){
+
+  <h3><span>Area: </span> {{ area / 1000000 | number : "1.2-2" }}</h3>
+
+  }
+  <br />
+
+  <div class="btns">
+    <button mat-flat-button color="accent" (click)="newMeasure()">Clear</button>
+  </div>
+</div>
+} }

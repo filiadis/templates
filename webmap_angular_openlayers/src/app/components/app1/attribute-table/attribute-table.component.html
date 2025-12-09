@@ -1,0 +1,13 @@
+@defer{
+<div class="table" [@slideInOut]="!dataTabletoggle">
+  <div class="main-row">
+    <label class="title"
+      >Data table / {{ elName }} / {{ enName }} / {{ dbName }}</label
+    >
+    <mat-icon matTooltip="Close" (click)="closeDialog()">close</mat-icon>
+  </div>
+  {{ jsonResponce }}
+</div>
+}
+
+<!-- add cdkDrag  to the elemt that want to be draggable-->

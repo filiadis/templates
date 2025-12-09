@@ -1,0 +1,43 @@
+@defer{ @if (lang === 'el'){
+<div class="coords">
+  <select
+    name="projection"
+    id="projection"
+    class="custom-select"
+    [(ngModel)]="selectedProjection"
+  >
+    <option value="2100">ΕΓΣΑ 87</option>
+    <option value="4326">WGS 84</option>
+  </select>
+  &nbsp;&nbsp;&nbsp; @if (selectedProjection === '4326'){
+  <div class="xy">
+    (φ): {{ lon | number : "1.2-6" }} (λ): {{ lat | number : "1.2-6" }}
+  </div>
+  } @else{
+  <div class="xy">
+    (x): {{ Xcoord | number : "1.2-2" }} (y): {{ Ycoord | number : "1.2-2" }}
+  </div>
+  }
+</div>
+}@else if (lang === 'en'){
+<div class="coords">
+  <select
+    name="projection"
+    id="projection"
+    class="custom-select"
+    [(ngModel)]="selectedProjection"
+  >
+    <option value="2100">EGSA 87</option>
+    <option value="4326">WGS 84</option>
+  </select>
+  &nbsp;&nbsp;&nbsp; @if (selectedProjection === '4326'){
+  <div class="xy">
+    (lon): {{ lon | number : "1.2-6" }} (lat): {{ lat | number : "1.2-6" }}
+  </div>
+  } @else{
+  <div class="xy">
+    (x): {{ Xcoord | number : "1.2-2" }} (y): {{ Ycoord | number : "1.2-2" }}
+  </div>
+  }
+</div>
+} }

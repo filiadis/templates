@@ -1,0 +1,22 @@
+.dialog {
+  position: absolute;
+  top: 10%;
+  bottom: 20%;
+  right: 60px;
+  z-index: 3;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  z-index: 3;
+}
+
+.title {
+  float: left;
+}
+
+mat-icon {
+  float: right;
+}
+mat-icon:hover {
+  background-color: #e0e0e0;
+}

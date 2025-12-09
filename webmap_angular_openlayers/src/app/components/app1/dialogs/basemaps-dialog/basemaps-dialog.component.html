@@ -1,0 +1,63 @@
+@defer { @if (lang === 'el'){
+<div class="dialog" [@slideInOut]="toggle">
+  <mat-icon matTooltip="κλείσιμο" (click)="closeDialog()">close</mat-icon>
+  <h2 class="title">Υπόβαθρα</h2>
+  <br />
+  <mat-radio-group color="accent" class="radio-group">
+    <mat-radio-button
+      value="osm"
+      checked="true"
+      (change)="selectedRadioBtn($event.value)"
+    >
+      Open Street Map</mat-radio-button
+    >
+    <mat-radio-button
+      value="esriWorld"
+      (change)="selectedRadioBtn($event.value)"
+      >ESRI World Imagery</mat-radio-button
+    >
+    <mat-radio-button value="esriGrey" (change)="selectedRadioBtn($event.value)"
+      >ESRI World Grey</mat-radio-button
+    >
+    <mat-radio-button
+      value="esriRelief"
+      (change)="selectedRadioBtn($event.value)"
+      >ESRI World Relief</mat-radio-button
+    >
+    <mat-radio-button value="none" (change)="selectedRadioBtn($event.value)"
+      >None</mat-radio-button
+    >
+  </mat-radio-group>
+</div>
+}@else if (lang === 'en'){
+<div class="dialog" [@slideInOut]="toggle">
+  <mat-icon matTooltip="Close" (click)="closeDialog()">close</mat-icon>
+  <h2 class="title">Basemaps</h2>
+  <br />
+  <mat-radio-group color="accent" class="radio-group">
+    <mat-radio-button
+      value="osm"
+      checked="true"
+      (change)="selectedRadioBtn($event.value)"
+    >
+      Open Street Map</mat-radio-button
+    >
+    <mat-radio-button
+      value="esriWorld"
+      (change)="selectedRadioBtn($event.value)"
+      >ESRI World Imagery</mat-radio-button
+    >
+    <mat-radio-button value="esriGrey" (change)="selectedRadioBtn($event.value)"
+      >ESRI World Grey</mat-radio-button
+    >
+    <mat-radio-button
+      value="esriRelief"
+      (change)="selectedRadioBtn($event.value)"
+      >ESRI World Relief</mat-radio-button
+    >
+    <mat-radio-button value="none" (change)="selectedRadioBtn($event.value)"
+      >None</mat-radio-button
+    >
+  </mat-radio-group>
+</div>
+} }

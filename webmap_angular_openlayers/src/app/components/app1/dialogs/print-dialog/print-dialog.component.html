@@ -1,0 +1,13 @@
+<div class="dialog" [@slideInOut]="toggle">
+  <mat-icon matTooltip="Close" matTooltip="Close" (click)="closeDialog()"
+    >close</mat-icon
+  >
+  <h2 class="title">Print</h2>
+  <br /><br />
+
+  <div class="btns">
+    <button mat-flat-button color="accent" (click)="exportMap()">Export</button>
+    <h2>{{ isLoading }}</h2>
+  </div>
+  <div #mapElement id="mape"></div>
+</div>

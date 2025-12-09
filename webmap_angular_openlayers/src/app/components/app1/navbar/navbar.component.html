@@ -1,0 +1,42 @@
+<mat-toolbar>
+  <span
+    >@if (lang === 'el'){ (GIS) Γεωπληροφοριακό Σύστημα SUPCO } @else if (lang
+    === 'en'){ (GIS) Geographic Information System SUPCO }</span
+  >
+
+  <div class="tools">
+    <app-main-tool />
+
+    <select
+      name="lang"
+      id="lang"
+      class="lang-select"
+      [(ngModel)]="lang"
+      (change)="onLangChange()"
+    >
+      <option value="el">EL</option>
+      <option value="en">EN</option>
+    </select>
+  </div>
+
+  <!--
+  <div class="language">
+    <app-nav-info />
+    <app-nav-guide />
+    <span class="tabs" (click)="guides()">
+      @if (lang === 'el'){ Οδηγίες } @else if (lang === 'en'){Guidelines}</span
+    >
+
+    <img src="../../../../assets/icons/language.svg" class="icon" />&nbsp;
+    <select
+      name="lang"
+      id="lang"
+      class="lang-select"
+      [(ngModel)]="lang"
+      (change)="onLangChange()"
+    >
+      <option value="el">Ελληνικά (el)</option>
+      <option value="en">English (en)</option>
+    </select>
+  </div>-->
+</mat-toolbar>

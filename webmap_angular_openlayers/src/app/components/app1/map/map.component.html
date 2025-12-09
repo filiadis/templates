@@ -1,0 +1,19 @@
+<app-legend />
+
+<div class="button-container">
+  <button
+    class="fullscreen"
+    [ngClass]="{ 'exit-fullscreen': toggle }"
+    (click)="exitFullscreen()"
+  >
+    Exit
+  </button>
+</div>
+
+<div
+  #mapElement
+  id="map"
+  class="map"
+  [ngClass]="{ 'map-fullscreen': toggle }"
+></div>
+<div id="scalebar"></div>

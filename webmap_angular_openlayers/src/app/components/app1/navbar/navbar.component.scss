@@ -1,0 +1,58 @@
+mat-toolbar {
+  display: flex;
+  height: 7%;
+  color: white;
+  background-color: rgba(63, 81, 181, 1);
+  z-index: 2;
+}
+
+.tools {
+  position: absolute;
+  left: 30%;
+  right: 0%;
+  color: white;
+  z-index: 100;
+  margin-right: 1%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 20px;
+}
+
+.lang-select {
+  background-color: transparent; /* Retain transparency */
+  color: white;
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+  border: none; /* Same as border: 0px */
+  text-align: center; /* Center align text */
+  display: flex; /* Ensure it's part of the flex system */
+  align-items: center; /* Center content vertically */
+  justify-content: center; /* Center content horizontally */
+}
+
+.lang-select option {
+  background-color: #2c2f33; /* Background for dropdown items */
+  color: white; /* Text color for dropdown items */
+}
+
+.tabs {
+  font-size: 0.9rem;
+  margin-right: 20px;
+}
+
+.tabs:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.icon {
+  width: 25px;
+  filter: invert(1);
+}
+
+.btn-icon {
+  width: 22px;
+  align-items: center;
+}
