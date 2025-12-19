@@ -1,10 +1,10 @@
 import "./App.css";
-import Foo from "./components/Foo";
+import MapRef from "./components/MapRef";
 
 function App() {
   return (
     <>
-      <Foo />
+      <MapRef />
     </>
   );
 }
