@@ -3,10 +3,12 @@ from django.shortcuts import render
 
 # Create your views here.
 def home_view(request):
-    return render(request, 'home.html')
+    return render(request, "home.html")
+
 
 def login_view(request):
-    return render(request, 'login.html')
+    return render(request, "login.html")
+
 
 def not_found_view(request):
-    return render(request, '404.html')
+    return render(request, "404.html")
